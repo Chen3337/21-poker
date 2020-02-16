@@ -12,3 +12,5 @@ This game does track score. Its score in the local storage.
 This is first try with the pwa (progressive web application). On smart phones you can add this game to the home screen.
 
 # just for fun.
+poker card images comes from(https://opengameart.org/sites/default/files/Playing%20Cards.zip)
+the backside image came from google images...
